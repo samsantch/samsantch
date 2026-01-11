@@ -3,7 +3,7 @@
 I’m a 3rd year BS Computer Science student at the Technological Institute of the Philippines – Quezon City.  
 I’m an aspiring Software Engineer with interests in web development and data science.
 
-Currently, I’m focusing on learning web development, particularly React.js, and building React-based projects to strengthen my software development fundamentals.
+Currently, I’m focusing on learning web development, particularly React.js, while also building foundations in data science using Python libraries.
 
 ---
 
@@ -23,6 +23,13 @@ Currently, I’m focusing on learning web development, particularly React.js, an
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 </p>
 
+### Data Science (Foundations)
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" />
+</p>
+
 ### Other Technologies & Tools
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
@@ -34,6 +41,6 @@ Currently, I’m focusing on learning web development, particularly React.js, an
 ---
 
 ## 📌 Current Focus
-- Learning React.js through hands-on projects  
-- Strengthening programming fundamentals  
-- Improving problem-solving and algorithmic thinking  
+- Building React.js projects through hands-on practice  
+- Learning data science fundamentals using NumPy, Pandas, and Matplotlib  
+
