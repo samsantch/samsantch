@@ -30,6 +30,11 @@ Currently, I’m focusing on learning web development, particularly React.js, wh
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" />
 </p>
 
+### Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+</p>
+
 ### Other Technologies & Tools
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
