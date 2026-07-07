@@ -1,6 +1,6 @@
 # Hi, I’m Ed Samuel Concepcion 👋
 
-I’m a 3rd year BS Computer Science student at the Technological Institute of the Philippines – Quezon City.  
+I’m a 4th-Year BS Computer Science student at the Technological Institute of the Philippines – Quezon City.  
 I’m an aspiring Software Engineer with interests in web development and data science.
 
 Currently, I’m focusing on learning web development, particularly React.js, while also building foundations in data science using Python libraries.
